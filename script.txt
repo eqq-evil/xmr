@@ -1,1 +1,6 @@
-loadstring(game:HttpGetAsync(('https://raw.githubusercontent.com/eqq-evil/xmr/main/loader.lua')))
+--[[
+loader for xmr
+]]
+
+-- loader:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eqq-evil/xmr/main/loader.lua"))()
